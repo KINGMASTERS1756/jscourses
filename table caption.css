@@ -1,0 +1,18 @@
+table, th, td {
+    border: 1px solid rgb(255, 208, 0);
+    border-collapse: collapse;
+  }
+  th {
+    padding: 5px;
+    text-align: left;
+  }
+   td {
+    border: 1px solid rgb(0, 38, 255);
+    border-collapse: collapse;
+    background-color: darkgreen;
+}
+  table {
+    border: 1px solid rgb(255, 0, 0);
+    border-collapse: collapse;
+    background-color: darkslategrey;
+}

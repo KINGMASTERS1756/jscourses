@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid rgb(0, 255, 55);
+    padding: 45px;
+    background-color: hotpink;
+    font-size: 200%;
+}
+  table {
+    border-spacing: 50px;
+  
+}

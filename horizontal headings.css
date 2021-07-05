@@ -1,0 +1,24 @@
+table, th, td {
+    border: 1px solid rgb(0, 4, 255);
+    border-collapse: collapse;
+    
+}
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
+    td{
+    border: 1px solid rgb(0, 255, 0);
+    border-collapse: collapse;
+    background-color: gold;
+
+   }
+   th {
+    border: 1px solid rgb(0, 4, 255);
+    border-collapse: collapse;
+    background-color: green;}
+    
+    table {
+        border: 1px solid rgb(0, 4, 255);
+        border-collapse: collapse;
+        background-color: indianred;}

@@ -1,0 +1,14 @@
+.city {
+    background-color: tomato;
+    color: rgb(0, 255, 98);
+    border: 2px solid rgb(255, 9, 9);
+    margin: 20px;
+    padding: 20px;
+}
+.new{
+    background-color: rgb(134, 71, 60);
+    color: rgb(70, 143, 98);
+    border: 2px solid rgb(150, 71, 71);
+    margin: 20px;
+    padding: 20px;
+}
